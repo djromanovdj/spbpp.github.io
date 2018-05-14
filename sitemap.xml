@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://ged.com/index.html</loc>
+    <lastmod>2018-05-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ged.com/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/61b62f1s-1920.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/vibrance_14_6766_oboi_podshipniki_ot_skejtborda_1366x768.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/bearing-metal-round-steel-technology-exhibit-2560x1440-crop-u2549.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/61b62f1s-1920-crop-u2521.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/vibrance_14_6766_oboi_podshipniki_ot_skejtborda_1366x768-crop-u2493.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/%D0%BB%D0%BE%D0%B3%D0%BE%20%D0%BF%D0%BE%D0%B4%D1%88%D0%B8%D0%BF%D0%BD%D0%B8%D0%BA%D0%B8%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/%D0%BF%D0%BE%D1%88%D0%B8%D0%BF%D0%BD%D0%B8%D0%BA%D0%B8.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D1%8B.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/1.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ged.com/images/3.png</image:loc>
+    </image:image>
+  </url>
+</urlset>

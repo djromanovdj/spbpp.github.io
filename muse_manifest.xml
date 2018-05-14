@@ -1,0 +1,79 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ged.com" resolutions="1x" timestamp="1526302918452">
+  <folder name="css">
+    <file name="site_global.css" crc="4142842365"/>
+    <file name="index.css" crc="3871082352" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:index"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u2385.php" crc="43286071" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo.png" crc="390758369" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u208-4-a.png" crc="3995753642" ref="index"/>
+    <file name="bearing-metal-round-steel-technology-exhibit-2560x1440.jpg" crc="455350873" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="61b62f1s-1920.jpg" crc="414954570" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vibrance_14_6766_oboi_podshipniki_ot_skejtborda_1366x768.jpg" crc="4015631645" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bearing-metal-round-steel-technology-exhibit-2560x1440-crop-u2549.jpg" crc="3817891558" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="61b62f1s-1920-crop-u2521.jpg" crc="4051011600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vibrance_14_6766_oboi_podshipniki_ot_skejtborda_1366x768-crop-u2493.jpg" crc="4012801832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="лого подшипники 2.png" crc="4137410262" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2398b6c25f9905991dec33c1b88ddadf (1)-u1614-fr.png" crc="238217282" ref="index"/>
+    <file name="пошипники.png" crc="144534484" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="бренды.png" crc="4028776879" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1.png" crc="4008659546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2.png" crc="519883541" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3.png" crc="3846793414" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="279237556" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="4157460338" seo="true" mt="1526302265380" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3807370066" seo="true" mt="1526302726915" redirect="true"/>
+</manifest>
